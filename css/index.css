@@ -46,8 +46,10 @@ iframe{
 }
 
 section#botoes{
-    text-align: right;
-    margin-right: 2%;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
 }
 
@@ -60,5 +62,5 @@ section#botoes img{
     width: 45px;
     border-radius: 50%;
     margin-top: 2%;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
+    box-shadow: 7px 7px 11px 1px rgba(0, 0, 0, 0.5);
 }
