@@ -44,3 +44,15 @@ iframe{
     width: 227px;
     height: 480px;
 }
+
+section#botoes{
+    padding-top:10%;
+    margin-left: 2%;
+
+}
+
+section#botoes img{
+    width: 45px;
+    border-radius: 50%;
+    margin-top: 2%;
+}
