@@ -46,13 +46,19 @@ iframe{
 }
 
 section#botoes{
-    padding-top:10%;
-    margin-left: 2%;
+    text-align: right;
+    margin-right: 2%;
 
 }
 
+section#botoes div{
+    display: inline-block;
+}
+
 section#botoes img{
+
     width: 45px;
     border-radius: 50%;
     margin-top: 2%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
 }
