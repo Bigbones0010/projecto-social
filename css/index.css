@@ -19,6 +19,5 @@ section#huawei{
     border: 1px solid black;
     width: 500px;
     height: 500px;
-    background-image: url("imagens/huawei1.png");
-    background-color: blue;
+    background-image: url("/imagens/huawei1.png");
 }
