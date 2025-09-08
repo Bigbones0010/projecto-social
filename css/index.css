@@ -6,7 +6,7 @@
 }
 
 body{
-    width: 100vh;
+    width: 100vw;
     height: 100vh;
     background-color: aqua;
 }
@@ -46,6 +46,7 @@ iframe{
 }
 
 section#botoes{
+
     position: absolute;
     top: 5%;
     left: 50%;
